@@ -5,8 +5,6 @@ ref: [Code With Tomi - Send Emails With Python [UPDATED]](https://www.youtube.co
 
 ---
 
-## Before coding
-
 | Step 1 | Step 2 |
 | -------- | -------- |
 |<img src=https://i.imgur.com/136Fs6b.png >|<img src=https://i.imgur.com/kHodizq.png>|
